@@ -1,4 +1,4 @@
-# RedlegsStockPrediction
+# RedLegsStockPrediction
 Made by Sumay Thakurdesai, Xinyi He, and Sayan Sisodiya. 
 
 ## How it Works
